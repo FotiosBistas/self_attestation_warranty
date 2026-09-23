@@ -990,7 +990,7 @@
         {
           "title": "Intended purpose and reasonably foreseeable use",
           "content": "Does the technical documentation contain PDE's intended purpose and reasonably foreseeable use",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Annex VII, point 1(a); Article 13(3)-(4) and Annex VII, point 3 (for reasonably foreseeable use within the documented risk assessment)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Annex VII, point 1(a)",
           "type": "mchoices",
           "responses": [
             {
