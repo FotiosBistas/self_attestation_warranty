@@ -1151,7 +1151,7 @@
         {
           "title": "Ηarmonised standards and technical specifications",
           "content": "Does the technical documentation contain information about the harmonised standards or solutions adopted to meet the essential cybersecurity requirements of the regulation?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Annex VII, point 5; Article 27; Article 31(1)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Annex VII, point (5)",
           "type": "mchoices",
           "responses": [
             {
