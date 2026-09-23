@@ -960,7 +960,7 @@
         {
           "title": "Software Bill of Materials ",
           "content": "Will the software bill of materials be available to the user? If yes, do information and instructions to the user include information on where the software bill of materials can be accessed?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Annex II, point (9); Article 13(18)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Annex II, point (9)",
           "type": "mchoices",
           "responses": [
             {
