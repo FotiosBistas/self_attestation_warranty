@@ -1193,7 +1193,7 @@
         {
           "title": "EU declaration of conformity",
           "content": "Does the technical documentation contain a copy of the EU declaration of conformity",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Annex VII, point 7; Article 28; Article 31(1)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Annex VII, point (7)",
           "type": "mchoices",
           "responses": [
             {
