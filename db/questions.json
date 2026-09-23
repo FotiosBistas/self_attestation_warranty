@@ -1082,7 +1082,7 @@
         {
           "title": "Vulnerability Handling Process",
           "content": "Does the technical documentation contain a vulnerability handling process?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Annex VII, point 2(b); Article 31(1)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Annex VII, point 2(b)",
           "type": "mchoices",
           "responses": [
             {
