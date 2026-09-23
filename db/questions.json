@@ -1031,7 +1031,7 @@
         {
           "title": "Visual and Images of PDE",
           "content": "Is your PDE a hardware product? If yes, does the technical documentation contain photographs or illustrations showing external features, marking and internal layout?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Annex VII, point 1(c); Article 31(1)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Annex VII, point 1(c)",
           "type": "mchoices",
           "responses": [
             {
