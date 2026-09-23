@@ -1130,7 +1130,7 @@
         {
           "title": "Support Period",
           "content": "Does the technical documentation contain information that was taken into account to determine the support period of the PDE?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Annex VII, point 4; Article 13(8); Article 31(1)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Annex VII, point (4)",
           "type": "mchoices",
           "responses": [
             {
