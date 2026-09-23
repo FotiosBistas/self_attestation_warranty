@@ -7,7 +7,7 @@
         {
           "title": "Documented and Maintained Cybersecurity Risk Assessment",
           "content": "Have you documented a cybersecurity risks assessment and have you defined an update process for the duration of the lifetime of the product?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Article 13(3) and Article 13(7)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Article 13(3)",
           "type": "mchoices",
           "responses": [
             {
@@ -27,7 +27,7 @@
         {
           "title": "Intended purpose and reasonably foreseeable use",
           "content": "Does the cybersecurity risk assessment include the intended purpose and reasonably foreseeable use of PDE?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Article 13(3); definitions in Article 3(23)-(24)",
+          "reference": "EN-40000-1-2",
           "type": "mchoices",
           "responses": [
             {
@@ -48,7 +48,7 @@
         {
           "title": "PDE functions",
           "content": "Does the cybersecurity risk assessment include information about PDE's functions",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Article 13(2)-(3) (general risk-assessment basis; PDE functions are not expressly listed as a mandatory risk-assessment element)",
+          "reference": "EN-40000-1-2",
           "type": "mchoices",
           "responses": [
             {
@@ -89,7 +89,7 @@
         {
           "title": "PDE user description",
           "content": "Does the cybersecurity risk assessment include information about PDE's users?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Article 13(2)-(3) (general risk-assessment basis; a user-description element is not expressly listed)",
+          "reference": "EN-40000-1-2",
           "type": "mchoices",
           "responses": [
             {
@@ -110,7 +110,7 @@
         {
           "title": "Risk acceptance criteria and risk management methodology",
           "content": "Does the cybersecurity risk assessment include information about risk acceptance criteria and risk management methodology?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Article 13(2)-(3) (general risk-assessment basis; risk acceptance criteria/methodology are not expressly prescribed)",
+          "reference": "EN-40000-1-2",
           "type": "mchoices",
           "responses": [
             {
@@ -130,7 +130,7 @@
         {
           "title": "Protected assets and cybersecurity objectives",
           "content": "Does the cybersecurity risk assessment include information about PDE's protected assets and the cybersecurity objectives?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Article 13(3) (expressly refers to assets to be protected; cybersecurity objectives are not separately enumerated)",
+          "reference": "EN-40000-1-2",
           "type": "mchoices",
           "responses": [
             {
@@ -150,7 +150,7 @@
         {
           "title": "Threat identification",
           "content": "Does the cybersecurity risk assessment identifies threats to the PDE?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Article 13(2)-(3) (general risk-assessment basis; threat identification is not expressly enumerated)",
+          "reference": "EN-40000-1-2",
           "type": "mchoices",
           "responses": [
             {
@@ -170,7 +170,7 @@
         {
           "title": "Risk estimation",
           "content": "Does the cybersecurity risk assessment identifies provides a risk estimation by taking into consideration threat sources, attack vectors, existing controls, likelihood, and impact?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Article 13(2)-(3) (general risk-assessment basis; the listed risk-estimation factors are not expressly enumerated)",
+          "reference": "EN-40000-1-2",
           "type": "mchoices",
           "responses": [
             {
@@ -190,7 +190,7 @@
         {
           "title": "Risk evaluation",
           "content": "Does the cybersecurity risk assessment identifies which risks should be mitigated and which are acceptable residual risks?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Article 13(2)-(3) (general risk-assessment basis; risk-evaluation methodology is not expressly enumerated)",
+          "reference": "EN-40000-1-2",
           "type": "mchoices",
           "responses": [
             {
@@ -210,7 +210,7 @@
         {
           "title": "Risk treatment",
           "content": "Does the cybersecurity risk assessment identifies security controls that should be applied in order to mitigate the identified risks?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Article 13(2)-(3) and Annex I, Part I, points (1)-(2) (general basis for risk-informed implementation; a distinct 'risk treatment' step is not expressly named)",
+          "reference": "EN-40000-1-2",
           "type": "mchoices",
           "responses": [
             {
@@ -230,7 +230,7 @@
         {
           "title": "Risk communication",
           "content": "Does the cybersecurity risk assessment includes information about risks transferred to relevant stakeholders?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Article 13(2)-(3) (general risk-assessment basis; a distinct risk-communication step is not expressly named)",
+          "reference": "EN-40000-1-2",
           "type": "mchoices",
           "responses": [
             {
@@ -250,7 +250,7 @@
         {
           "title": "Risk monitoring and review",
           "content": "Does the cybersecurity risk assessment specify at what regularity the reviewing of the risk management shall be performed ?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Article 13(3) and Article 13(7)",
+          "reference": "EN-40000-1-2",
           "type": "mchoices",
           "responses": [
             {
@@ -297,7 +297,7 @@
         {
           "title": "No known vulnerabilities",
           "content": "Does the cybersecurity risk assessment describe how the \"no known exploitable vulnerabilities\" requirement is implemented, or justify why this requirement is not applicable?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part I, point (2)(a); Article 13(3)-(4)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part I, point (2)(a)",
           "type": "mchoices",
           "responses": [
             {
@@ -318,7 +318,7 @@
         {
           "title": "Secure by default configuration",
           "content": "Does the cybersecurity risk assessment describe how the product is provided with a secure-by-default configuration, including the ability to reset the product to its original secure state, or justify why this requirement is not applicable?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part I, point (2)(b); Article 13(3)-(4)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part I, point (2)(b)",
           "type": "mchoices",
           "responses": [
             {
@@ -339,7 +339,7 @@
         {
           "title": "Security updates and vulnerability remediation",
           "content": "Does the cybersecurity risk assessment describe how vulnerabilities are addressed through security updates and the corresponding user notification mechanism, or justify why this requirement is not applicable?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part I, point (2)(c); Article 13(3)-(4)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part I, point (2)(c)",
           "type": "mchoices",
           "responses": [
             {
@@ -360,7 +360,7 @@
         {
           "title": "Protection from unauthorised access",
           "content": "Does the cybersecurity risk assessment describe how the product is protected against unauthorised and reports possible unauthorised access, or justify why this requirement is not applicable?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part I, point (2)(d); Article 13(3)-(4)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part I, point (2)(d)",
           "type": "mchoices",
           "responses": [
             {
@@ -381,7 +381,7 @@
         {
           "title": "Confidentiality protection",
           "content": "Does the cybersecurity risk assessment describe how the confidentiality of stored, transmitted, or processed data is protected, or justify why this requirement is not applicable?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part I, point (2)(e); Article 13(3)-(4)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part I, point (2)(e)",
           "type": "mchoices",
           "responses": [
             {
@@ -402,7 +402,7 @@
         {
           "title": "Integrity protection",
           "content": "Does the cybersecurity risk assessment describe how the integrity of data, commands, programs, and configurations is protected against unauthorised modification, and how corruptions are reported, or justify why this requirement is not applicable?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part I, point (2)(f); Article 13(3)-(4)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part I, point (2)(f)",
           "type": "mchoices",
           "responses": [
             {
@@ -444,7 +444,7 @@
         {
           "title": "Availability and resilience",
           "content": "Does the cybersecurity risk assessment describe how the product protects the availability of essential functions, or justify why this requirement is not applicable?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part I, point (2)(h); Article 13(3)-(4)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part I, point (2)(h)",
           "type": "mchoices",
           "responses": [
             {
@@ -465,7 +465,7 @@
         {
           "title": "Impact on connected services",
           "content": "Does the cybersecurity risk assessment describe how the product minimises negative impacts on the availability of services provided by connected devices or networks, or justify why this requirement is not applicable?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part I, point (2)(i); Article 13(3)-(4)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part I, point (2)(i)",
           "type": "mchoices",
           "responses": [
             {
@@ -486,7 +486,7 @@
         {
           "title": "Attack surface reduction",
           "content": "Does the cybersecurity risk assessment describe how the product limits attack surfaces, or justify why this requirement is not applicable?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part I, point (2)(j); Article 13(3)-(4)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part I",
           "type": "mchoices",
           "responses": [
             {
@@ -507,7 +507,7 @@
         {
           "title": "Exploitation mitigation",
           "content": "Does the cybersecurity risk assessment describe how the product reduces the impact of incidents, or justify why this requirement is not applicable?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part I, point (2)(k); Article 13(3)-(4)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part I, point (2)(k)",
           "type": "mchoices",
           "responses": [
             {
@@ -528,7 +528,7 @@
         {
           "title": "Security event logging and monitoring",
           "content": "Does the cybersecurity risk assessment describe how the product records and monitors relevant internal activities, or justify why this requirement is not applicable?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part I, point (2)(l); Article 13(3)-(4)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part I, point (2)(l)",
           "type": "mchoices",
           "responses": [
             {
@@ -549,7 +549,7 @@
         {
           "title": "Secure data and settings removal",
           "content": "Does the cybersecurity risk assessment describe how users can securely and permanently remove data and settings, and securely transfer data, or justify why this requirement is not applicable?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part I, point (2)(m); Article 13(3)-(4)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part I, point (2)(m)",
           "type": "mchoices",
           "responses": [
             {
@@ -576,7 +576,7 @@
         {
           "title": "Vulnerability and component documentation",
           "content": "Does your cybersecurity risk assessment document describe a process for identifying and documenting vulnerabilities and product components, including the creation of a Software Bill of Materials (SBOM)?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part II, point (1); Article 13(3), (8)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part II, point (1)",
           "type": "mchoices",
           "responses": [
             {
@@ -597,7 +597,7 @@
         {
           "title": "Vulnerability remediation and security updates",
           "content": "Does your cybersecurity risk assessment document describe a process for addressing and remediating vulnerabilities without delay, including through the provision of security updates?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part II, point (2); Article 13(8)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part II, point (2)",
           "type": "mchoices",
           "responses": [
             {
@@ -618,7 +618,7 @@
         {
           "title": "Security testing and review",
           "content": "Does your cybersecurity risk assessment document describe a process for performing effective and regular security tests and reviews of the product?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part II, point (3); Article 13(8)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part II, point (3)",
           "type": "mchoices",
           "responses": [
             {
@@ -639,7 +639,7 @@
         {
           "title": "Disclosure information about fixed vulnerabilities",
           "content": "Does your cybersecurity risk assessment document describe a process for publicly disclosing necessary information about fixed vulnerabilities after security updates become available, including remediation guidance and conditions for delayed disclosure where justified?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part II, point (4); Article 13(8)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part II, point (4)",
           "type": "mchoices",
           "responses": [
             {
@@ -660,7 +660,7 @@
         {
           "title": "Coordinated vulnerability disclosure policy",
           "content": "Does your cybersecurity risk assessment document describe a policy and process for coordinated vulnerability disclosure?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part II, point (5); Article 13(8)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part II, point (5)",
           "type": "mchoices",
           "responses": [
             {
@@ -681,7 +681,7 @@
         {
           "title": "Vulnerability reporting and information sharing",
           "content": "Does your cybersecurity risk assessment document describe measures for facilitating the reporting and sharing of information about vulnerabilities, including the provision of a contact address for vulnerability reporting?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part II, point (6); Article 13(8)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part II, point (6)",
           "type": "mchoices",
           "responses": [
             {
@@ -702,7 +702,7 @@
         {
           "title": "Secure update mechanisms",
           "content": "Does your cybersecurity risk assessment document describe mechanisms for securely and automatically distributing security updates?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part II, point (7); Article 13(8)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part II, point (7)",
           "type": "mchoices",
           "responses": [
             {
@@ -723,7 +723,7 @@
         {
           "title": "Security update processes",
           "content": "Does your cybersecurity risk assessment document describe a process for disseminating security updates?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part II, point (8); Article 13(8)-(9)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part II, point (8)",
           "type": "mchoices",
           "responses": [
             {
@@ -794,7 +794,7 @@
         {
           "title": "Manufacturer identification and contact information",
           "content": "Do information and instructions to the user include information related to the manufacturer name, registered trade name or registered trademark, and contact information?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Annex II, point (1); Article 13(18)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Annex II, point (1)",
           "type": "mchoices",
           "responses": [
             {
@@ -815,7 +815,7 @@
         {
           "title": "Contact point responsible for vulnerabilities handling",
           "content": "Do information and instructions to the user include a single point of contact where information about vulnerabilities of the PDE can be reported and received, and where the manufacturer's policy on coordinated vulnerability disclosure can be found?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Annex II, point (2); Article 13(17)-(18)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Annex II, point (2)",
           "type": "mchoices",
           "responses": [
             {
@@ -835,7 +835,7 @@
         {
           "title": "PDE identification",
           "content": "Do information and instructions to the user include name and type and any additional information enabling the unique identification of the PDE",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Annex II, point (3); Article 13(18)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Annex II, point (3)",
           "type": "mchoices",
           "responses": [
             {
@@ -855,7 +855,7 @@
         {
           "title": "PDE intended purpose",
           "content": "Do information and instructions to the user include information related to the intended purpose of the PDE, as well the security environment provided by the manufacturer, the product's essential functionalities and information about the security properties?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Annex II, point (4); Article 13(18)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Annex II, point (4)",
           "type": "mchoices",
           "responses": [
             {
@@ -875,7 +875,7 @@
         {
           "title": "Circumstances which may lead to cybersecurity risks",
           "content": "Do information and instructions to the user include any known or foreseeable circumstance, related to the use of the PDE in accordance with its intended purpose or under conditions of reasonably foreseeable misuse, which may lead to significant cybersecurity risks?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Annex II, point (5); Article 13(18)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Annex II, point (5)",
           "type": "mchoices",
           "responses": [
             {
@@ -895,7 +895,7 @@
         {
           "title": "EU declaration of conformity access",
           "content": "Have you produce an EU declaration of conformity? If yes, do information and instructions to the user include the internet address at which the EU declaration of conformity can be accessed",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Annex II, point (6); Article 13(20)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Annex II, point (6)",
           "type": "mchoices",
           "responses": [
             {
@@ -1214,7 +1214,7 @@
         {
           "title": "Software bill of material",
           "content": "Have you produced an SBOM? If yes, does the technical documentation contain the SBOM?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Annex VII, point 8; Annex VII, point 2(b); Article 31(1)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Annex VII, point (8)",
           "type": "mchoices",
           "responses": [
             {
