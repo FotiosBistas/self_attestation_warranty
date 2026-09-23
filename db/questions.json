@@ -1061,7 +1061,7 @@
         {
           "title": "Information on the design and development of the PDE",
           "content": "Does the technical documentation  contain how was the product designed, developed, and produced to include security?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Annex VII, point 2(a); Article 31(1)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Annex VII, point 2(a)",
           "type": "mchoices",
           "responses": [
             {
