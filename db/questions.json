@@ -1011,7 +1011,7 @@
         {
           "title": "Versions of software",
           "content": "Does the technical documentation contain PDE's versions of software affecting compliance with essential cybersecurity requirements",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Annex VII, point 1(b); Article 31(1)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Annex VII, point 1(b)",
           "type": "mchoices",
           "responses": [
             {
