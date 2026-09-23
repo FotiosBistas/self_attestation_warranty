@@ -1172,7 +1172,7 @@
         {
           "title": "Test reports",
           "content": "Does the technical documentation contain reports of the tests carried out to verify the conformity of the PDE?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Annex VII, point 6; Article 31(1)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Annex VII, point (6)",
           "type": "mchoices",
           "responses": [
             {
