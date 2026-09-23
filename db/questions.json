@@ -919,7 +919,7 @@
         {
           "title": "Technical security support",
           "content": "Do information and instructions to the user include information related to the type of technical security support offered by the manufacturer and the end-date of the support period during which users can expect vulnerabilities to be handled and to receive security updates?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Annex II, point (7); Article 13(18)-(19)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Annex II, point (7)",
           "type": "mchoices",
           "responses": [
             {
