@@ -939,7 +939,7 @@
         {
           "title": "Instructions",
           "content": "Do information and instructions to the user include the necessary detailed instructions or an internet address referring to such detailed instructions and information?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Annex II, point (8)(a)-(f); Article 13(18)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Annex II, point (8)",
           "type": "mchoices",
           "responses": [
             {
