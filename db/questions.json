@@ -423,7 +423,7 @@
         {
           "title": "Data minimisation",
           "content": "Does the cybersecurity risk assessment describe how the product limits the processing of data to what is necessary for its intended purpose, or justify why this requirement is not applicable?",
-          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part I, point (2)(g); Article 13(3)-(4)",
+          "reference": "Regulation (EU) 2024/2847 (CRA), Annex I, Part I, point (2)(g)",
           "type": "mchoices",
           "responses": [
             {
